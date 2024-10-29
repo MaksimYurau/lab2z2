@@ -1,0 +1,24 @@
+From bf83559535f379c50ad5d8a4d121e043066251f6 Mon Sep 17 00:00:00 2001
+From: student2223acc <studentmitso2223@gmail.com>
+Date: Tue, 29 Oct 2024 20:12:57 +0300
+Subject: [PATCH] =?UTF-8?q?=D0=98=D0=B7=D0=BC=D0=B5=D0=BD=D0=B5=D0=BD?=
+ =?UTF-8?q?=D0=B8=D1=8F=20=D0=B2=20README.md?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 3d7586f..02ab219 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,2 @@
+ # My Project
+-# My Project
++# Task 5.3
+-- 
+2.39.3 (Apple Git-145)
+
